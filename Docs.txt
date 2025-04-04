@@ -1,0 +1,14 @@
+Data Dummy:
+Email: tianzen.farm@airsmtp.com
+Sandi: 40noOEYaQ+pXrR#
+Instagram: 
+
+Coming soon Fitur:
+Halaman Transaksi
+Payment Gateaway
+Fitur Login
+Katalog Produk
+Blog
+Database Connection
+Halaman Profile
+Email/WhatsApp Connection
